@@ -1,6 +1,6 @@
 # 🧪 Lab DevOps - Braian S. Pereira
 
-Repositório com meus estudos, scripts e experimentos da trilha de **DevOps Iniciante**. Aqui documento tudo o que venho aprendendo e praticando com foco em automação, servidores Linux e monitoramento.
+Repositório com meus estudos, scripts e experimentos da trilha de **DevOps Iniciante**. Aqui documento tudo o que venho aprendendo e praticando com foco em DevOps
 
 ---
 
