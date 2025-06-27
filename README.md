@@ -12,6 +12,7 @@ Repositório com meus estudos, scripts e experimentos da trilha de **DevOps Inic
 ✅ Criação de scripts com Shell Script  
 ✅ Agendamento de tarefas com **`cron`**  
 ✅ Monitoramento de processos via linha de comando
+
 ✅ Certificado da alura: [DevOps: explorando conceitos, comandos e scripts no Linux CLI](https://cursos.alura.com.br/certificate/e53e8539-ab07-4088-8088-ef51e85b3ab4?lang=pt_BR)
 
 ---
