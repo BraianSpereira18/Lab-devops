@@ -1,6 +1,6 @@
 # 🧪 Lab DevOps - Braian S. Pereira
 
-Repositório com meus estudos, scripts e experimentos da trilha de **DevOps **. Aqui documento tudo o que venho aprendendo e praticando com foco em infraestrutura, redes, computação em nuvem e afins.
+Repositório com meus estudos, scripts e experimentos da trilha de **DevOps**. Aqui documento tudo o que venho aprendendo e praticando com foco em infraestrutura, redes, computação em nuvem e afins.
 
 ---
 
