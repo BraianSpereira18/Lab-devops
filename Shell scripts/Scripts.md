@@ -1,4 +1,4 @@
----
+
 
 ## 📦 `Compactador.sh`
 Script interativo que permite **compactar** ou **descompactar** arquivos no formato `.tar.gz`.
