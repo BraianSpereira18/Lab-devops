@@ -1,4 +1,8 @@
+# 🧾 Documentação dos Scripts - Lab DevOps
 
+Este documento descreve os scripts criados durante a trilha de aprendizado em DevOps. Cada script possui um objetivo específico voltado para automação, administração de sistemas Linux ou manutenção de ambientes.
+
+---
 
 ## 📦 `Compactador.sh`
 Script interativo que permite **compactar** ou **descompactar** arquivos no formato `.tar.gz`.
