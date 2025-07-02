@@ -1,10 +1,10 @@
-# 🧪 Lab DevOps - Braian S. Pereira
+# Lab DevOps - Braian S. Pereira
 
 Repositório com meus estudos, scripts e experimentos da trilha de **DevOps**. Aqui documento tudo o que venho aprendendo e praticando com foco em infraestrutura, redes, computação em nuvem e afins.
 
 ---
 
-## 🚀 O que já foi feito
+## O que já foi feito
 
 ✅ Instalação de uma máquina virtual com Ubuntu Server  
 ✅ Navegação via terminal e comandos Linux básicos  
@@ -17,7 +17,7 @@ Repositório com meus estudos, scripts e experimentos da trilha de **DevOps**. A
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 | Pasta | Conteúdo |
 |-------|----------|
@@ -29,7 +29,7 @@ Repositório com meus estudos, scripts e experimentos da trilha de **DevOps**. A
 
 ---
 
-## 📚 Próximos passos
+## Próximos passos
 
 - Entendendo a comunicação web funciona
 - explorar e utilizar métodos HTTP
